@@ -1,0 +1,78 @@
+
+.question{
+	padding: 20rpx;
+}
+#info{
+	
+	font-size:50rpx;
+}
+.view-title{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	
+	margin-top: 10rpx;
+}
+.view-title2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #DD524D;
+	font-size: 22rpx;
+	margin-top: 8rpx;
+}
+.main-classify{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	direction: center;/*居中的方向  */
+}
+.xuhao{ 
+	display: -webkit-box; 
+	display: -webkit-flex; 
+	display: flex;
+	 -webkit-box-pack: start;
+	 -webkit-justify-content: flex-start;
+	         justify-content: flex-start; 
+	margin-top: 10rpx;
+	padding: 30rpx;
+}
+.number_color{
+	color: #FFC125;
+}
+.number_color2{
+	color: #C0C0C0;
+}
+.clickAnswer{
+	width: 460rpx;
+	height: 80rpx;
+	border-radius: 65rpx;
+	border: #808080 1px solid;
+	margin-top: 50rpx;
+}
+.answer_text{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	 margin-top: 20rpx;
+	text-align: center;
+}
+

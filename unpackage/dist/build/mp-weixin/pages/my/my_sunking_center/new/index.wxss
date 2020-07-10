@@ -1,0 +1,1 @@
+.user{width:90%;display:-webkit-box;display:-webkit-flex;display:flex;height:500rpx;border:#007aff 1px solid;margin:0 auto}.user1{margin-top:60rpx}.radius{height:120rpx;width:120rpx;-webkit-box-pack:start;-webkit-justify-content:flex-start;justify-content:flex-start}

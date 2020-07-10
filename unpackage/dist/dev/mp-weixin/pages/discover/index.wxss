@@ -1,0 +1,60 @@
+
+.title{
+ 
+	display: -webkit-box;
+ 
+	display: -webkit-flex;
+ 
+	display: flex;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;/* 左对齐 */
+	margin-left: 20rpx;
+	 
+letter-spacing:5rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+  
+	padding: 24rpx;
+}
+.title1{
+	margin-left: 16rpx;
+	font-size: 36rpx;
+	letter-spacing:6rpx;
+	font-size: 40rpx;
+}
+.title2{
+	font-size: 20rpx;
+	color: #FFD700;
+}
+._hr{
+ display: -webkit-box;
+ display: -webkit-flex;
+ display: flex;
+ -webkit-box-pack: justify;
+ -webkit-justify-content: space-between;
+         justify-content: space-between;
+   
+    
+	
+	 border-top:1px solid #CCCCCC;
+}
+.imgs{
+	width: 167rpx;
+	height: 8rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 6rpx;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;/* 左对齐 */
+	margin-left: 58rpx;
+}
+.tab{
+	margin-top: 50rpx;
+}
+.segmented{
+}
+

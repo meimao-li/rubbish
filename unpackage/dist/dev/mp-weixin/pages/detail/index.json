@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "详情页面",
+  "usingComponents": {
+    "zyflow": "/components/zyflow/zyflow"
+  }
+}

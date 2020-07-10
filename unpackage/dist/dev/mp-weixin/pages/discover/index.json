@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "发现",
+  "usingComponents": {
+    "discover-all": "/pages/discover/discover_all/index",
+    "discover-bench": "/pages/discover/discover_bench/bench",
+    "discover-book-box": "/pages/discover/discover_bookbox/index",
+    "discover-life": "/pages/discover/discover_life/index",
+    "discover-refuse-bin": "/pages/discover/discover_ljt/index",
+    "discover-table-number": "/pages/discover/discover_tablenumber/index",
+    "uni-segmented-control": "/node-modules/@dcloudio/uni-ui/lib/uni-segmented-control/uni-segmented-control"
+  }
+}
